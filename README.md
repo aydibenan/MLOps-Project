@@ -2,7 +2,6 @@
 
 # Wine Quality Classification with MLflow
 
-![MLflow Logo](https://mlflow.org/docs/latest/_static/MLflow-logo-final-white.png)
 
 ## Project Overview
 This project demonstrates end-to-end machine learning lifecycle management using MLflow. We classify wine quality (3 classes) using scikit-learn's `load_wine` dataset, tracking experiments, optimizing models, deploying the best performer, and monitoring its performance.

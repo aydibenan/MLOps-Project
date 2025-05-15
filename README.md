@@ -35,8 +35,8 @@ mlflow server \
   --port 5002
 
 ## Run these in order:
-python src/train.py          # Train and log models
-python src/tune.py           # Optimize Random Forest
-python src/register_model.py # Register best model
-python src/serve.py          # Test model prediction
-python src/monitor.py        # Simulate production monitoring
+--python src/train.py          # Train and log models
+--python src/tune.py           # Optimize Random Forest
+--python src/register_model.py # Register best model
+--python src/serve.py          # Test model prediction
+--python src/monitor.py        # Simulate production monitoring
